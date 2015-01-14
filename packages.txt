@@ -1,2 +1,2 @@
-boost-devel
-libboost_test1_53_0
+zypper -n in boost-devel
+zypper -n in libboost_test1_53_0
